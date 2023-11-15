@@ -11,13 +11,13 @@ Per utilizzare la calcolatrice sul tuo computer locale, segui questi passaggi:
 2. Scarica il file `calcolatrice.py` dal repository:
 
     ```bash
-    wget https://raw.githubusercontent.com/tuonome/calcolatrice-python/main/calcolatrice.py
+    https://github.com/Reda2200/Python/main.py
     ```
 
-3. Esegui il file `calcolatrice.py`:
+3. Esegui il file `main.py`:
 
     ```bash
-    python calcolatrice.py
+    python main.py
     ```
 
 ## 📝 Utilizzo
