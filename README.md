@@ -1,6 +1,3 @@
-Ecco un esempio di README.md personalizzato per il codice della tua calcolatrice Python:
-
-```markdown
 # 🧮 Calcolatrice Semplice in Python
 
 Benvenuto nella Calcolatrice Semplice in Python! Questa calcolatrice supporta le operazioni di base come addizione, sottrazione, moltiplicazione e divisione.
