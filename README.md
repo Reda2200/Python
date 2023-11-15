@@ -11,7 +11,7 @@ Per utilizzare la calcolatrice sul tuo computer locale, segui questi passaggi:
 2. Scarica il file `calcolatrice.py` dal repository:
 
     ```bash
-    https://github.com/Reda2200/Python/main.py
+    git clone https://github.com/Reda2200/Python/main.py
     ```
 
 3. Esegui il file `main.py`:
