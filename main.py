@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def main():
     print('Che operazione vuoi fare?\n1. Somma\n2. Sottrazione\n3. Moltiplicazione\n4. Divisione\ne. Esci')
     while True:
