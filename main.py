@@ -6,13 +6,13 @@ def main():
             num1 = float(input('inserisci il primo numero: '))
             num2 = float(input('Inserisci il secondo numero: '))
             if job == '1':
-                print('Risultato: 'num1+num2)
+                print(num1+num2)
             if job == '2':
-                print('Risultato: 'num1-num2)
+                print(num1-num2)
             if job == '3':
-                print('Risultato: 'num1*num2)
+                print(num1*num2)
             if job == '4':
-                print('Risultato: 'num1/num2)
+                print(num1/num2)
         elif job == 'e':
             print('Uscita')
             break
